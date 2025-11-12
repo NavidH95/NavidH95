@@ -1,5 +1,6 @@
 # 💫 About Me:
 A focused and creative individual with a Master’s degree in Computer Engineering - Artificial Intelligence, specializing in large language models (LLMs). I have a deep love for learning and teaching. Experienced as a head teaching assistant for three courses and highly interested in engaging in diverse projects.
+
 <br>Research of Interest: LLM, VLM
 
 
